@@ -1,0 +1,6 @@
+C:\csharp\kartiserv1\kartiserv1\bin\Debug\kartiserv1.exe.config
+C:\csharp\kartiserv1\kartiserv1\bin\Debug\kartiserv1.exe
+C:\csharp\kartiserv1\kartiserv1\bin\Debug\kartiserv1.pdb
+C:\csharp\kartiserv1\kartiserv1\obj\Debug\kartiserv1.csprojResolveAssemblyReference.cache
+C:\csharp\kartiserv1\kartiserv1\obj\Debug\kartiserv1.exe
+C:\csharp\kartiserv1\kartiserv1\obj\Debug\kartiserv1.pdb

@@ -1,0 +1,9 @@
+C:\csharp\form\kartiform\kartiform\bin\Debug\kartiform.exe.config
+C:\csharp\form\kartiform\kartiform\bin\Debug\kartiform.exe
+C:\csharp\form\kartiform\kartiform\bin\Debug\kartiform.pdb
+C:\csharp\form\kartiform\kartiform\obj\Debug\kartiform.csprojResolveAssemblyReference.cache
+C:\csharp\form\kartiform\kartiform\obj\Debug\kartiform.Form1.resources
+C:\csharp\form\kartiform\kartiform\obj\Debug\kartiform.Properties.Resources.resources
+C:\csharp\form\kartiform\kartiform\obj\Debug\kartiform.csproj.GenerateResource.Cache
+C:\csharp\form\kartiform\kartiform\obj\Debug\kartiform.exe
+C:\csharp\form\kartiform\kartiform\obj\Debug\kartiform.pdb
